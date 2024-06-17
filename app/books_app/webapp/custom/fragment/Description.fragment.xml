@@ -1,0 +1,39 @@
+<core:FragmentDefinition
+    xmlns:core="sap.ui.core"
+    xmlns="sap.m"
+>   
+<!-- Testing -->
+    <!-- <Text id="_IDGenText1" text="Test"/> -->
+    <!-- <Input id="idInput" width="20%" ></Input> -->
+    <!-- <smartMultiInput:SmartMultiInput
+        id="idAuthor"
+        width="50%"
+        value="{author}"
+        contextEditable="true"
+        entitySet="BooksSet"
+        supportMultiSelect="false"
+    /> -->
+    <!-- <ComboBox
+        id="idComboBox"
+        showSecondaryValues="true"
+    >
+        <core:ListItem
+            id="idItemA"
+            text="A"
+            key="A"
+            additionalText="Example A"
+        />
+        <core:ListItem
+            id="idItemB"
+            text="B"
+            key="B"
+            additionalText="Example B"
+        />
+        <core:ListItem
+            id="idItemC"
+            text="C"
+            key="C"
+            additionalText="Example C"
+        />
+    </ComboBox> -->
+</core:FragmentDefinition>
