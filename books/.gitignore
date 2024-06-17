@@ -14,7 +14,7 @@ target/
 .gen/
 
 # MTA
-*_mta_build_tmp
+
 *.mtar
 mta_archives/
 
